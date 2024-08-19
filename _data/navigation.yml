@@ -6,7 +6,7 @@
 
 main:
   - title: "Research"
-    url: /research/
+    url: /publications/
    
   - title: "Teaching"
     url: /teaching/    
@@ -15,4 +15,4 @@ main:
     url: /cv/
     
   - title: "About"
-    url: /about/
+    url: /markdown/
