@@ -12,7 +12,7 @@ title                    : "Jillian Wilkins Academic Website"
 title_separator          : "-"
 name                     : &name "Jillian Wilkins"
 description              : &description "Ph.D. student in the Department of Economics at Emory University"
-url                      : https://jillwilkins.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jillwilkins/jillwilkins.github.io"
 
