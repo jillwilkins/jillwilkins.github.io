@@ -41,7 +41,7 @@ Skills
 * Tableau
 * Excel
 
-Publications
+Publications (for future use)
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
